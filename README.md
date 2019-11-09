@@ -1,2 +1,0 @@
-# SWTROSCountdown
-Created with CodeSandbox

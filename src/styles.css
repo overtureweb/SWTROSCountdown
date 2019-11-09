@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.background--stars {
+  background: url("/src/images/stars.jpg") center no-repeat;
+  background-size: cover;
+}
+.time-diff__container {
+  padding-top: 4rem;
+}
+.time-diff__descriptor {
+  margin-right: 1rem;
+  color: #888;
+}
